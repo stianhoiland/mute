@@ -1,4 +1,4 @@
-# ![mute](https://github.com/user-attachments/assets/197bb48a-923e-44ac-bd45-b807e3ef28a9) mute
+# ![mute](https://github.com/user-attachments/assets/197bb48a-923e-44ac-bd45-b807e3ef28a9) mute by Stian
 
 mute is a super lightweight and robust utility that gives you a system-wide hotkey to mute and unmute your microphone(s).
 
@@ -12,7 +12,7 @@ Certain nice-to-have features have been intentionally left out to make mute safe
 
 ## How to install
 
-Download mute.exe in the Releases section. Double click to run. Delete to uninstall. The executable leaves no trace behind.
+Download [the latest mute.exe](https://github.com/stianhoiland/mute/releases/latest) in the Releases section. Double click to run. Delete to uninstall. The executable leaves no trace behind.
 
 ## How to use
 
